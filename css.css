@@ -1,0 +1,23 @@
+.box{
+    background-color: rgb(249, 20, 20);
+    padding: 20px;
+    margin: 20px;
+    margin-top: 20px;
+
+}
+.box2{
+    background-color: blue;
+
+}
+.button1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+
+}
+.button2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 400px;
+
+}
